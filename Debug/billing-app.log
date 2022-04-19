@@ -1,0 +1,11 @@
+﻿  billing-app.cpp
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\billing-app\billing-app\billing-app.cpp(48,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\billing-app\billing-app\billing-app.cpp(8,20): warning C4101: 'taksit': unreferenced local variable
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\billing-app\billing-app\billing-app.cpp(9,7): warning C4101: 'EH': unreferenced local variable
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\billing-app\billing-app\billing-app.cpp(69,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\billing-app\billing-app\billing-app.cpp(81,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\billing-app\billing-app\billing-app.cpp(91,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\billing-app\billing-app\billing-app.cpp(58,8): warning C4101: 'toplam': unreferenced local variable
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\billing-app\billing-app\billing-app.cpp(59,6): warning C4101: 'seçim': unreferenced local variable
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\billing-app\billing-app\billing-app.cpp(59,14): warning C4101: 'adet': unreferenced local variable
+  billing-app.vcxproj -> C:\Users\taste\Desktop\repos\C++ Uygulamaları\billing-app\Debug\billing-app.exe
